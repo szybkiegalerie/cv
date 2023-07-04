@@ -30,3 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Poufne pliki konfiguraccyjne
+.env.local
